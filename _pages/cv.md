@@ -38,11 +38,11 @@ Research experience
 
 Publications
 ======
-*Journal articles*
-**Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.
+*Journal articles*  
+**Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  
 Alain, C., Cusimano, M., Garami, L., Backer, K., Habelt, B., **Chan, V.**, & Hasher, L. (2018) Age-related differences in orienting attention to sound object representations. Neurobiology of Aging 66, 1-11. doi: 10.1016/j.neurobiolaging.2018.01.026
 
-*Invited Book Chapter*
+*Invited Book Chapter*  
 **Chan, T.M.V.**, & Alain, C. (in press). Theories of cognitive aging: A look at potential benefits of music training on the aging brain. In L. Cuddy, S. Belleville, & A. Moussard (Eds.) *Music and the Aging Brain.* Elsevier.
   
 Service and leadership
