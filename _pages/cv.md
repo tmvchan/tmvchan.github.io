@@ -17,9 +17,17 @@ Education
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Course Instructor, Department of Psychology, University of Toronto, January 2019 – April 2019
+  * Course: Cognitive Neuroscience. Overall evaluation 3.91/5; historical course average 3.88/5
+  * Please refer to [teaching dossier](https://www.dropbox.com/s/spb4n04z9zu1qq2/Teaching%20Dossier%20-%20T.%20M.%20Vanessa%20Chan.pdf?dl=0) for further details.
+  * Currently reprised for Winter 2020 session.
+* Instructional Resource Designer, Department of Psychology, University of Toronto, July 2019 – present	
+  * Consultant for design of writing assignments to develop critical reading skills.		
+* Teaching Assistant, Department of Psychology, University of Toronto, September 2014 – present
+  * Courses: Introduction to Psychology, Statistics I, Learning & Plasticity, Physiological Psychology, Music Cognition. 
+  * Please refer to [teaching dossier](https://www.dropbox.com/s/spb4n04z9zu1qq2/Teaching%20Dossier%20-%20T.%20M.%20Vanessa%20Chan.pdf?dl=0) for further details.
+* Advanced University Teaching Preparation Certificate Program, March 2015 – February 2017
+  * Teaching Assistant Training Program, University of Toronto
 
 Research experience
 ======
