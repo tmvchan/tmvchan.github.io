@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD (Psychology), University of Toronto, 2020 (expected)
+* MA (Psychology), University of Toronto, 2015
+* BSc (Neuroscience), McGill University, 2014
 
-Work experience
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting graduate student, 2016
+  * Cognitive Brain Research Unit, University of Helsinki
+* Undergraduate researcher, 2012-2014
+  * Neuropsychopharmacology Lab, McGill University
 
 Publications
 ======
@@ -42,18 +34,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* NeuroBRITE mentor and coordinator, Rotman Research Institute, 2018-present
+* Workshop presenter (Introduction to EEG), Rotman Research Institute, February 2019
+* Academic rounds coordinator, Rotman Research Institute, 2018-2019
+* Logistics coordinator, Science Rendezvous U of T, 2015-2018
