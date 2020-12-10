@@ -44,14 +44,14 @@ Research experience
 Publications
 ======
 *Journal articles*  
-**Chan, T.M.V.**, & Alain, C. (in press). Brain indices associated with semantic cues prior to and after words in noise. *Brain Research*. https://doi.org/10.1016/j.brainres.2020.147206
-**Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  https://doi.org/10.3758/s13414-018-1586-8
+**Chan, T.M.V.**, & Alain, C. (in press). Brain indices associated with semantic cues prior to and after words in noise. *Brain Research*. https://doi.org/10.1016/j.brainres.2020.147206 
+**Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  https://doi.org/10.3758/s13414-018-1586-8 
 Alain, C., Cusimano, M., Garami, L., Backer, K., Habelt, B., **Chan, V.**, & Hasher, L. (2018) Age-related differences in orienting attention to sound object representations. Neurobiology of Aging 66, 1-11. https://doi.org/10.1016/j.neurobiolaging.2018.01.026
 
 *Invited Book Chapter*  
 **Chan, T.M.V.**, & Alain, C. (2020). Theories of cognitive aging: A look at potential benefits of music training on the aging brain. In L. Cuddy, S. Belleville, & A. Moussard (Eds.) *Music and the Aging Brain.* Elsevier.
 
-*Teaching Resources*
+*Teaching Resources* 
 Wood, S., & **Chan, V.** (2020). Sequential assignments to critically evaluate psychological journal articles. Society for the Teaching of Psychology website. https://teachpsych.org/resources/Documents/otrp/resources/wood20.pdf
   
 Service and leadership
