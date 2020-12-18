@@ -9,7 +9,7 @@ tags:
 
 One thing that I have found about my experience of this pandemic that perhaps isn't as commonly discussed is the relative discomfort we can have in silence. Perhaps it's just me (although I don't think I'm alone in this), but the time I spent with friends, doing extracurriculars, and doing 'busy work' on top of doing actual work kept me from actually reflecting on my experience of life. When the pandemic came and took away a lot of those things I would do to fill an empty space, I didn't want to be in silence. I do think this is just an exaggeration of what I've known about myself for a long time: I listen to music when working or commuting because I don't like sitting quietly. And part of it is that I don't want to spend time facing things I did not-so-well (or heck, even things I think I did well, because then I notice all the parts that weren't so good).
 
-Self-reflection is very important for growth. It opens the opportunity for us to retrieve and consolidate experiences, perhaps in a more constructive way than the experience was first consolidated. So in the interest of promoting that we all sit with our thoughts a little more (if you don't already), I thought it useful to share the reflection in longer form. This will not be exhaustive, but I intend to be transparent in my thinking.
+Self-reflection is very important for growth. It opens the opportunity for us to retrieve and consolidate experiences, perhaps in a more constructive way than the experience was first consolidated. So in the interest of promoting regular self-reflection (if you don't already), I thought it useful to share my own in longer form. This will not be exhaustive, but I intend to be transparent in my thinking.
 
 -------
 
