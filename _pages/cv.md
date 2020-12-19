@@ -44,7 +44,7 @@ Research experience
 Publications
 ======
 *Journal articles*  
-**Chan, T.M.V.**, & Alain, C. (in press). Brain indices associated with semantic cues prior to and after words in noise. *Brain Research*. https://doi.org/10.1016/j.brainres.2020.147206  
+**Chan, T.M.V.**, & Alain, C. (2020). Brain indices associated with semantic cues prior to and after a word in noise. *Brain Research*. https://doi.org/10.1016/j.brainres.2020.147206  
 **Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  https://doi.org/10.3758/s13414-018-1586-8  
 Alain, C., Cusimano, M., Garami, L., Backer, K., Habelt, B., **Chan, V.**, & Hasher, L. (2018) Age-related differences in orienting attention to sound object representations. Neurobiology of Aging 66, 1-11. https://doi.org/10.1016/j.neurobiolaging.2018.01.026
 
