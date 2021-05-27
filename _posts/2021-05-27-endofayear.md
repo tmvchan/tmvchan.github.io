@@ -17,7 +17,7 @@ But after a year of this, I can say with a fair amount of confidence that no, I 
 
 In my reflection from the end of the fall semester, I wrote:
 
-	Honestly, don't underestimate the power of a regular check-in with a colleague - as a new person, I've really appreciated it, but I think we all need that more than ever now whether you've been at the job for a few months or many years.
+> Honestly, don't underestimate the power of a regular check-in with a colleague - as a new person, I've really appreciated it, but I think we all need that more than ever now whether you've been at the job for a few months or many years.
 	
 The number of panicked emails I sent this past semester about one thing or another has really opened my eyes to the need for actual on-the-ground mentorship. It's one thing to have online support systems and advice columns and stuff like that, but it's another beast to have someone who's been in your particular workspace long enough to know the ins and outs of the daily workings, from how to file reimbursements to how to answer students' pleas for help. For me, it was more than just the practical aspects; it was knowing that I had people on whom I could rely on, people who had gone through similar things, who would understand my concerns.
 
