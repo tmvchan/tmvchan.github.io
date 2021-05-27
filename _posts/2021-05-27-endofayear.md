@@ -37,10 +37,9 @@ Certainly, the emotional labour of this job is the most difficult. But I've lear
 
 Of course, there are also the smaller celebrations:
 
-	- A couple of great things that I really didn't do much for at all, but have been very edifying for me: students of mine who were in my Cognitive Neuroscience classes from U of T giving me updates for their next stages of life! I was actually very happy to hear from them and to learn about the amazing things they would be up to next year (one's going to med school and another is going into biomedical communications). 
-	- I had the opportunity to participate in a community-building workshop series that taught me a lot about so many of the initiatives that locals are doing that could use support. I'm very excited to build these opportunities into my courses and to continue to bridge that gap between classroom and community.
-	- A number of publications that were in the works (one all the way from my time with rats in undergrad!) got out of my life were published, phew. And there's a lot of upcoming opportunities for different kinds of scholarly work - not sure how I'll find the time to do them all, but I'm sure it'll work out.
-	- And lastly, but certainly not least of all: it's nice to know I have this job next year, too. Best way to improve is to keep working at it! 
+* A couple of great things that I really didn't do much for at all, but have been very edifying for me: students of mine who were in my Cognitive Neuroscience classes from U of T giving me updates for their next stages of life! I was actually very happy to hear from them and to learn about the amazing things they would be up to next year (one's going to med school and another is going into biomedical communications). 
+* I had the opportunity to participate in a community-building workshop series that taught me a lot about so many of the initiatives that locals are doing that could use support. I'm very excited to build these opportunities into my courses and to continue to bridge that gap between classroom and community.
+* A number of publications that were in the works (one all the way from my time with rats in undergrad!) got out of my life were published, phew. And there's a lot of upcoming opportunities for different kinds of scholarly work - not sure how I'll find the time to do them all, but I'm sure it'll work out.
+* And lastly, but certainly not least of all: it's nice to know I have this job next year, too. Best way to improve is to keep working at it! 
 
 I'm sure that soon enough, I will be very excited to try to fix all these things I've noticed about my courses, adjust my expectations, and dive right into making new course materials. But for now... I'm exhausted, and I sure could use a rest.
-![image](https://user-images.githubusercontent.com/31254123/119861610-931ef580-bee5-11eb-8526-84856ff5ea87.png)
