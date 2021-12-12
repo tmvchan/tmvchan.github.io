@@ -38,6 +38,7 @@ If you get this opportunity, don't let it slip by, and make sure you document as
 * The lecturer explained concepts clearly.
 * The transitions between parts of lecture were smooth.
 * The lecturer solicited questions and answered them well.
+
 I also like including a free-form prompt for students to express any additional comments, usually two (one asking what was one thing I did well, one asking what was one thing that could be improved for their experience). The first time I did this, I got a lot of comments saying that the text was too small on the slides, so those spaces can be really helpful for identifying small practical changes that can be easily made.
 
 Besides getting teaching experience and documenting it, the other thing that can help you out is to get involved in your university's center for teaching and learning (a lot of the major universities have these, at least in my experience). They often offer workshops and sometimes even certification programs for graduate teaching. 
