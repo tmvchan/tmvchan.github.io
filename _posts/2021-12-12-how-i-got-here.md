@@ -15,11 +15,11 @@ I will be breaking this down into two parts: the part where I actually went on t
 
 The rising popularity of 'teaching-focused' faculty positions makes the landscape of these kinds of jobs very confusing to navigate. In my conversations with former colleagues who want to learn about how I got to where I am, the question often comes up on what this job actually is, what it looks like relative to tenure-track positions, so on and so forth. In my experience, the names and labels and responsibilities vary widely depending on the type of institution you're at. To wit:
 
-	• At Notre Dame, there is a separate track of faculty for teaching professors, professors of the practice, advisors and clinical professors (known as 'TPAC' faculty). This group of non-tenure-track faculty are still considered full faculty members, have full benefits, and their responsibilities depend on their classification and job description. My job description contains no research obligations, so to my knowledge it is not required but looks like a bonus (and many such teaching faculty colleagues do continue their own research to varying degrees).
-	• 'Teaching-stream' faculty are more common at larger research institutions, particularly in places where successful research programs preclude the capacity to accommodate students in their course needs. Some teaching-focused faculty at such places will explicitly have a percentage of their obligations dedicated to research, although that percentage is much smaller than for tenure-track faculty (e.g. 10-20% of their time and energy as opposed to most of their time). 
-	• Another name that might come up for such positions is 'Lecturer' (this is not in the UK sense where this equals Assistant Professor). Lecturers are typically full-time faculty with only teaching and service obligations. If you're reading this right, you'll realize that this is no different from my job right now, just with a different name. In fact, some universities have been making the shift from calling these faculty 'lecturers' to 'teaching-stream professors' in recognition of this disparity.
-	• If you're looking at a small liberal arts college (SLAC) with a strong teaching focus, then their division of labour may look very similar to a teaching-stream faculty member at a larger research institution, depending on how much the institution focuses on teaching. This is where you really need to do research on the institution to see course load and expectations (you may not find this out until the interview stage, but even preliminary research on this helps).
-	• Of course, there are also adjunct faculty positions, and you'll mostly hear people discouraging this path of teaching due to lack of resources and support, lack of benefits, and the precariousness of such jobs. I think it takes having another stable source of income for this to work in a household, even if you have enough such jobs to occupy you full-time. This path requires a thorough assessment of your living situation and the viability of bouncing between multiple institutions on a regular basis.
+* At Notre Dame, there is a separate track of faculty for teaching professors, professors of the practice, advisors and clinical professors (known as 'TPAC' faculty). This group of non-tenure-track faculty are still considered full faculty members, have full benefits, and their responsibilities depend on their classification and job description. My job description contains no research obligations, so to my knowledge it is not required but looks like a bonus (and many such teaching faculty colleagues do continue their own research to varying degrees).
+* 'Teaching-stream' faculty are more common at larger research institutions, particularly in places where successful research programs preclude the capacity to accommodate students in their course needs. Some teaching-focused faculty at such places will explicitly have a percentage of their obligations dedicated to research, although that percentage is much smaller than for tenure-track faculty (e.g. 10-20% of their time and energy as opposed to most of their time). 
+* Another name that might come up for such positions is 'Lecturer' (this is not in the UK sense where this equals Assistant Professor). Lecturers are typically full-time faculty with only teaching and service obligations. If you're reading this right, you'll realize that this is no different from my job right now, just with a different name. In fact, some universities have been making the shift from calling these faculty 'lecturers' to 'teaching-stream professors' in recognition of this disparity.
+* If you're looking at a small liberal arts college (SLAC) with a strong teaching focus, then their division of labour may look very similar to a teaching-stream faculty member at a larger research institution, depending on how much the institution focuses on teaching. This is where you really need to do research on the institution to see course load and expectations (you may not find this out until the interview stage, but even preliminary research on this helps).
+* Of course, there are also adjunct faculty positions, and you'll mostly hear people discouraging this path of teaching due to lack of resources and support, lack of benefits, and the precariousness of such jobs. I think it takes having another stable source of income for this to work in a household, even if you have enough such jobs to occupy you full-time. This path requires a thorough assessment of your living situation and the viability of bouncing between multiple institutions on a regular basis.
  
 All of this is to say that these jobs may at first look very different depending on the institution they're coming from, but the most important part is to read the job description. If you need clarity on what the position will entail, don't hesitate to contact the search chairs. They would rather have people who are actually committed to the kind of job they are putting forth!
 
@@ -34,10 +34,10 @@ If you get a TA assignment, usually you'll have a meeting with the instructor pr
 Of course, if the instructor doesn't immediately make that offer, ask at the end if they'd be open to that possibility, and see how they respond. You may not have the luxury of teaching the exact topic you want at the first go, but if it's not too far out of your wheelhouse (or if you've been given hours allocated to the task), I would strongly consider taking that offer up. As you build rapport with instructors, you can more easily ask for these opportunities. Sometimes, the instructor prefers to lecture, so they're not willing to let TAs guest lecture. But I find that a minority position overall, and instructors are generally happy to let the TA step in (with some guidance from their part) so they can have a bit of a break.
 
 If you get this opportunity, don't let it slip by, and make sure you document as much as you can about the experience. Write down some notes on what you did for the lecture. Where possible, get student feedback on the lecture - usually through the form of a survey that students fill out and submit at the end of class. Generally, you will want to ask their support for a set of statements on a Likert scale so that any subsequent opportunities to improve can be demonstrated through numeric value improvements. Examples of such statements could include:
-	•  The lecture material was well-organized.
-	•  The lecturer explained concepts clearly.
-	•  The transitions between parts of lecture were smooth.
-	•  The lecturer solicited questions and answered them well.
+* The lecture material was well-organized.
+* The lecturer explained concepts clearly.
+* The transitions between parts of lecture were smooth.
+* The lecturer solicited questions and answered them well.
 I also like including a free-form prompt for students to express any additional comments, usually two (one asking what was one thing I did well, one asking what was one thing that could be improved for their experience). The first time I did this, I got a lot of comments saying that the text was too small on the slides, so those spaces can be really helpful for identifying small practical changes that can be easily made.
 
 Besides getting teaching experience and documenting it, the other thing that can help you out is to get involved in your university's center for teaching and learning (a lot of the major universities have these, at least in my experience). They often offer workshops and sometimes even certification programs for graduate teaching. 
@@ -49,10 +49,10 @@ As someone who has recently reviewed applications for a teaching-focused positio
 Usually, a teaching-focused job application will include a cover letter, a statement of teaching philosophy, evidence of teaching effectiveness, and letters of recommendation. The easiest way to illustrate the teaching effectiveness and teaching philosophy are by providing a teaching dossier, although I would only suggest doing this if yours isn't massively long (because people don't have time to read all of it). Whether or not an application asks for a full dossier, I would strongly recommend preparing one the second you start getting the experience to guest lecture. 
 
 I won't go into details on what each component of the dossier should look like, since there are many versions out there. But in general, what a dossier includes are:
-	•  A statement of teaching philosophy / teaching statement: approximately 2 pages of how you approach teaching and examples of how this is implemented
-	•  Highlights of teaching experience: a summary of each teaching opportunity you've had (course instructor, TA, guest lecture) with notes on what the course was, your duties, the class size, and the institution
-	•  Evidence of effectiveness: this is where you bring out all of those student surveys after guest lectures and list them all out, whether that's the Likert scale surveys, samples of answers to open-ended statements, emails from students thanking you, etc.
-	•  Sample teaching materials: provide an example of a syllabus for a class you've taught (or if you haven't taught one, make up one for a course you'd like to teach), test questions, assignments, etc.
+* A statement of teaching philosophy / teaching statement: approximately 2 pages of how you approach teaching and examples of how this is implemented
+* Highlights of teaching experience: a summary of each teaching opportunity you've had (course instructor, TA, guest lecture) with notes on what the course was, your duties, the class size, and the institution
+* Evidence of effectiveness: this is where you bring out all of those student surveys after guest lectures and list them all out, whether that's the Likert scale surveys, samples of answers to open-ended statements, emails from students thanking you, etc.
+* Sample teaching materials: provide an example of a syllabus for a class you've taught (or if you haven't taught one, make up one for a course you'd like to teach), test questions, assignments, etc.
 
 If there's a center for teaching excellence at your institution, check to see if they have people who will help consult on your teaching statement or teaching dossier. Otherwise, if there's a mentor you have at your institution, they might be able to help as well. As with any sort of document, having another set of eyes can really help with clarity of communication.
 
@@ -60,14 +60,14 @@ If there's a center for teaching excellence at your institution, check to see if
 
 Did you make it to an interview stage? Amazing! Some schools will do interviews in two stages: one where they initially phone or video call a longer list of candidates, and then invite a smaller list (usually 3-4) to go to campus to interview. (Of course, this changed due to COVID, so in some cases you're still doing the shortlist interviews by video.) But either way, you should prepare yourself to answer a list of questions they may have that are presented at either stage. Here are a couple of them, spanning institution level questions to job-specific questions:
 
-	•  Why do you want this job? (Point to specific parts of the job description if you can to answer this!)
-	•  Tell us about yourself and how this job aligns with your goals. 
-	•  What do you see a student in your class or this program getting out of it? What are some overarching curricular goals that you wish to achieve?
-	•  What teaching experiences have you had, specifically in [insert discipline here]? (If you've done a variety of courses across disciplines or across different class sizes / types of institutions, here's where you highlight your versatility.)
-	•  Describe one experience where you had to overcome a challenge in a course/the classroom. How did you accomplish it and what did you learn?
-	•  What is a dream course of yours that you would like to teach at our institution?
-	•  How do you deal with issues of diversity, equity and inclusion in your teaching?
-	•  How do you see yourself aligning with the mission of the university? (Every university has some sort of mission and/or vision statement. Read it and make sure you can tie in parts of it to your answer.)
+* Why do you want this job? (Point to specific parts of the job description if you can to answer this!)
+* Tell us about yourself and how this job aligns with your goals. 
+* What do you see a student in your class or this program getting out of it? What are some overarching curricular goals that you wish to achieve?
+* What teaching experiences have you had, specifically in [insert discipline here]? (If you've done a variety of courses across disciplines or across different class sizes / types of institutions, here's where you highlight your versatility.)
+* Describe one experience where you had to overcome a challenge in a course/the classroom. How did you accomplish it and what did you learn?
+* What is a dream course of yours that you would like to teach at our institution?
+* How do you deal with issues of diversity, equity and inclusion in your teaching?
+* How do you see yourself aligning with the mission of the university? (Every university has some sort of mission and/or vision statement. Read it and make sure you can tie in parts of it to your answer.)
 
 Don't prepare the same boilerplate answers to these questions, but make sure that they are specific to each job that you apply to. Yes, there are general themes that you can draw from (e.g. your answer to a question about your commitment to DEI may not differ), but there are many that will require some tailoring (e.g. if one job is looking for someone to help teach stats, you're going to want to address that in questions about your teaching experience and your curricular development). 
 
@@ -77,17 +77,17 @@ The other thing about shortlist interviews, where you're invited to campus, is t
 
 Always have questions to ask whoever you're with. When someone says 'do you have any questions for us?' don't let that opportunity pass by. At the first phone/video interview, you may want to ask questions like:
 
-	•  What about working at this institution excites you?
-	•  Are there resources to support professional development and/or teaching excellence on campus?
-	•  What is your experience with the students like? 
+* What about working at this institution excites you?
+* Are there resources to support professional development and/or teaching excellence on campus?
+* What is your experience with the students like? 
 
 When you're at the shortlist interview, those same questions can apply (especially if you want to ask around to see if colleagues give the same kinds of answers!), but also ask:
 
-	•  Where do you see the department / program going in the next five years, and how does this position fit into that vision? (This is particularly good for your prospective chair, or at the dean level if you talk with admin).
-	•  What is the relationship of the department to the rest of the university? 
-	•  How would you describe your department? Are there opportunities to collaborate?
-	•  What is living in [location] like? How is the food/culture/outdoors/[insert thing you like to do]? (Really important for considering if you'd want to live there! People might also volunteer important information about cost of living. These are particularly good questions to ask over meals.)
-	•  What are benefits like here? (Potential follow-up: how is parental leave structured?)
+* Where do you see the department / program going in the next five years, and how does this position fit into that vision? (This is particularly good for your prospective chair, or at the dean level if you talk with admin).
+* What is the relationship of the department to the rest of the university? 
+* How would you describe your department? Are there opportunities to collaborate?
+* What is living in [location] like? How is the food/culture/outdoors/[insert thing you like to do]? (Really important for considering if you'd want to live there! People might also volunteer important information about cost of living. These are particularly good questions to ask over meals.)
+* What are benefits like here? (Potential follow-up: how is parental leave structured?)
 
 If you get a chance to talk with students, don't let this opportunity pass by to impress upon them that you're also interested in student life! I'd suggest asking questions about dorm life (if that applies), clubs and activities, what they like doing on and around campus, and also programmatically what things they like learning about in the department and what things they would want to see. You can learn a lot about the institution this way (and if you want to work there!).
 
