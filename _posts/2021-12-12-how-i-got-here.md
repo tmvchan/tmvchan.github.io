@@ -1,5 +1,5 @@
 ---
-title: '\'How did you get here?''
+title: '"How did you get here?"'
 date: 2021-12-12
 permalink: /posts/2021/12/how-did-you-get-here/
 tags:
