@@ -13,7 +13,7 @@ Academic Appointmnet
 ======
 * **Assistant Teaching Professor**, Department of Psychology, University of Notre Dame, August 2020 - present
   * Appointed to the Neuroscience and Behavior major
-  * Courses (Fall 2020): Auditory Cognition, Music in the Brain
+  * Courses (Spring 2022): Introduction to Cognitive Neuroscience, Auditory Cognition, Music in the Brain
 
 Education
 ======
@@ -21,7 +21,7 @@ Education
 * MA (Psychology), University of Toronto, 2015
 * BSc (Neuroscience), McGill University, 2014
 
-Teaching
+Teaching experience
 ======
 * **Course Instructor**, Department of Psychology, University of Toronto, January 2019 – April 2019 & January 2020 - April 2020
   * Course: Cognitive Neuroscience. Overall evaluation 3.91/5; historical course average 3.88/5
