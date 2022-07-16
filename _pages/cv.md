@@ -25,12 +25,12 @@ Teaching experience
 ======
 * **Course Instructor**, Department of Psychology, University of Toronto, January 2019 – April 2019 & January 2020 - April 2020
   * Course: Cognitive Neuroscience. Overall evaluation 3.91/5; historical course average 3.88/5
-  * Please refer to [teaching dossier](Teaching Dossier - T. M. Vanessa Chan.pdf) for further details.
+  * Please refer to [teaching dossier](http://tmvchan.github.io/files/Teaching Dossier - T. M. Vanessa Chan.pdf) for further details.
 * **Instructional Resource Designer**, Department of Psychology, University of Toronto, July 2019 – December 2019
   * Consultant for design of writing assignments to develop critical reading skills.		
 * **Teaching Assistant**, Department of Psychology, University of Toronto, September 2014 – June 2020
   * Courses: Introduction to Psychology, Statistics I, Learning & Plasticity, Physiological Psychology, Music Cognition. 
-  * Please refer to [teaching dossier](Teaching Dossier - T. M. Vanessa Chan.pdf) for further details.
+  * Please refer to [teaching dossier](http://tmvchan.github.io/files/Teaching Dossier - T. M. Vanessa Chan.pdf) for further details.
 * **Advanced University Teaching Preparation Certificate Program**, March 2015 – February 2017
   * Teaching Assistant Training Program, University of Toronto
 
@@ -61,4 +61,4 @@ Service and leadership
 * Academic rounds coordinator, Rotman Research Institute, 2018-2019
 * Logistics coordinator, Science Rendezvous U of T, 2015-2018
 
-For full CV, please see [here](Curriculum Vitae - Vanessa Chan [2022].pdf). 
+For full CV, please see [here](http://tmvchan.github.io/files/Curriculum Vitae - Vanessa Chan [2022].pdf). 
