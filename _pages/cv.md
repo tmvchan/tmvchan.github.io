@@ -36,6 +36,8 @@ Teaching experience
 
 Research experience
 ======
+* Graduate researcher, 2014-2020
+  * Alain Lab, Rotman Research Institute, Baycrest
 * Visiting graduate student, 2016
   * Cognitive Brain Research Unit, University of Helsinki
 * Undergraduate researcher, 2012-2014
@@ -44,9 +46,9 @@ Research experience
 Publications
 ======
 *Journal articles*  
-**Chan, T.M.V.**, & Alain, C. (2020). Brain indices associated with semantic cues prior to and after a word in noise. *Brain Research*. https://doi.org/10.1016/j.brainres.2020.147206  
+**Chan, T.M.V.**, Buchsbaum, B. R., & Alain, C. (2022). Effects of temporal order and intentionality on reflective attention to words in noise. *Psychological Research, 86*(2), 544-557. https://doi.org/10.1007/s00426-021-01494-6
+**Chan, T.M.V.**, & Alain, C. (2020). Brain indices associated with semantic cues prior to and after a word in noise. *Brain Research, 1751*, 147206. https://doi.org/10.1016/j.brainres.2020.147206
 **Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  https://doi.org/10.3758/s13414-018-1586-8  
-Alain, C., Cusimano, M., Garami, L., Backer, K., Habelt, B., **Chan, V.**, & Hasher, L. (2018) Age-related differences in orienting attention to sound object representations. Neurobiology of Aging 66, 1-11. https://doi.org/10.1016/j.neurobiolaging.2018.01.026
 
 *Invited Book Chapter*  
 **Chan, T.M.V.**, & Alain, C. (2020). Theories of cognitive aging: A look at potential benefits of music training on the aging brain. In L. Cuddy, S. Belleville, & A. Moussard (Eds.) *Music and the Aging Brain.* Elsevier.
@@ -56,6 +58,8 @@ Wood, S., & **Chan, V.** (2020). Sequential assignments to critically evaluate p
   
 Service and leadership
 ======
+* Mending Minds faculty advisor, University of Notre Dame, 2021-present
+* Neuroscience and Behavior Steering Committee, University of Notre Dame, 2020-present
 * NeuroBRITE mentor and coordinator, Rotman Research Institute, 2018-2020
 * Workshop presenter (Introduction to EEG), Rotman Research Institute, February 2019
 * Academic rounds coordinator, Rotman Research Institute, 2018-2019
