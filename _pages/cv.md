@@ -46,8 +46,8 @@ Research experience
 Publications
 ======
 *Journal articles*  
-**Chan, T.M.V.**, Buchsbaum, B. R., & Alain, C. (2022). Effects of temporal order and intentionality on reflective attention to words in noise. *Psychological Research, 86*(2), 544-557. https://doi.org/10.1007/s00426-021-01494-6
-**Chan, T.M.V.**, & Alain, C. (2020). Brain indices associated with semantic cues prior to and after a word in noise. *Brain Research, 1751*, 147206. https://doi.org/10.1016/j.brainres.2020.147206
+**Chan, T.M.V.**, Buchsbaum, B. R., & Alain, C. (2022). Effects of temporal order and intentionality on reflective attention to words in noise. *Psychological Research, 86*(2), 544-557. https://doi.org/10.1007/s00426-021-01494-6  
+**Chan, T.M.V.**, & Alain, C. (2020). Brain indices associated with semantic cues prior to and after a word in noise. *Brain Research, 1751*, 147206. https://doi.org/10.1016/j.brainres.2020.147206  
 **Chan, T.M.V.**, & Alain, C. (2019). Listening back in time: Does attention to memory facilitate word in noise identification? *Attention, Perception, & Psychophysics, 81*(1), 253-269.  https://doi.org/10.3758/s13414-018-1586-8  
 
 *Invited Book Chapter*  
