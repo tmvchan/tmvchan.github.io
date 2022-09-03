@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "T. M. Vanessa Chan"
+title                    : "T. M. Vanessa Chan, Ph.D."
 title_separator          : "-"
-name                     : &name "T. M. Vanessa Chan"
+name                     : &name "T. M. Vanessa Chan, Ph.D."
 description              : &description "Dept. of Psychology, University of Notre Dame"
 url                      : https://tmvchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "T. M. Vanessa Chan"
+  name             : "T. M. Vanessa Chan, Ph.D."
   avatar           : "DSC_0065_300x300.png"
   bio              : "Assistant Teaching Professor, Department of Psychology, University of Notre Dame. Trying new and good ways to teach. Interested in sounds and the brain."
   location         : "South Bend, Indiana, USA"
