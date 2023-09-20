@@ -5,6 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+## Scientific Communication in Psychology
+
+As scientists, we often communicate with our peers, but we sometimes fail in making our research known and relevant to the public. Even in psychology curricula, we often leave training this skill to specific methods or science communication courses. In tandem with my belief that the discoveries of science should be relevant to students, I also aim to make sure that students are equipped to share their knowledge with others.
+
+With the support of the Society for the Teaching of Psychology, I am working on a project to make an instructional resource based on a group science communication project I assign to students in Cognitive Psychology. This resource will hopefully be online on STP's website in Spring 2024. Concurrently, I am working on the assessment of both student perceptions and in-class writing on communicating dense scientific concepts in an easy to understand fashion.
+
+## Ambivalent Emotions in Music
+
+Although we often make the associations of 'major = happy' and 'minor = sad' in Western music, we can experience many emotions beyond simple positive and negative affect when listening to music. At the same time, chord structures extend beyond simple major and minor triads. What are the ways in which tonalities can combine in horizontal harmony (across a sequence of pitches) and vertical harmony (across a single chord made of more than one pitch) that elicit mixed affect?
+
+Along with Berthold Hoeckner, Stephen Van Hedger and Noah Bongiovanni, we are characterizing a particular musical construct (the seventh chord) and its ability to express mixed affect, such as 'bittersweet' or 'nostalgic'. By varying psychoacoustic dimensions of the chord structure, we can manipulate the tendency to perceive such a chord as more happy or sad, potentially highlighting the cues that the average listener uses to perceive valence in music.
+
 ## Teaching and Learning of Neuroscience
 
 The way in which neuroscience is completed as a discipline relies on the expertise of many individuals and the utilization of many technologies and interdisciplinary collaboration. However, the way in which neuroscience is taught often occurs at a unitary level, focusing on the scale of molecules, or neurons, or brains, or people. This process runs the risk of diluting the experience of neuroscience for students. 
