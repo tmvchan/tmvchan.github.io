@@ -8,7 +8,7 @@ tags:
   
 ---
 
-I was recently invited to give a talk at what I call my spiritual alma mater, the [Newman Centre of McGill University](https://newmancentre.org/). This is a rough transcript of that talk, minus small ad-libs. I mention work from the University and with my peers, but I hope it is clear that these are my opinions alone.
+I was recently invited to give a talk at what I call my spiritual alma mater, the [Newman Centre of McGill University](https://newmancentre.org/). This is a rough transcript of that talk, minus small ad-libs. I mention work from Notre Dame and with my peers, but I hope it is clear that these are my opinions alone.
 
 ---
 
