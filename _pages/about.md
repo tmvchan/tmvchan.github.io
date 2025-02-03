@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "T. M. Vanessa Chan"
+title: "T. M. Vanessa Chan-Devaere"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant teaching professor in the [Department of Psychology](https://psychology.nd.edu/faculty/tsz-man-vanessa-chan/) at the [University of Notre Dame](https://www.nd.edu/). My primary responsibilities are teaching courses for both the Psychology and [Neuroscience and Behavior](https://neuroscienceandbehavior.nd.edu/) programs, as well as advising students. I have a strong interest and commitment in education, particularly in improving the learning process for undergraduates through the introduction and usage of meaningful forms of assessment. It is my aim to be an educator who goes beyond imparting information, a teacher who can help develop better learners. In the realm of developing and implementing assessment, I have worked with my colleague [Dr. Rachel Branco](https://chemistry.nd.edu/people/rachel-branco/) in the application of a series of assignments to cross-course interdisciplinary awareness, and with [Dr. Suzanne Wood](http://www.suzannewoodphd.com/) in validating a series of sequential writing assignments designed to improve critical reading of primary research articles.
+I am an assistant teaching professor in the [Department of Psychology](https://psychology.nd.edu/people/faculty/vanessa-chan/) at the [University of Notre Dame](https://www.nd.edu/). My primary responsibilities are teaching courses for both the Psychology and [Neuroscience and Behavior](https://neuroscienceandbehavior.nd.edu/) programs, as well as advising students. I have a strong interest and commitment in education, particularly in improving the learning process for undergraduates through the introduction and usage of meaningful forms of assessment. It is my aim to be an educator who goes beyond imparting information, a teacher who can help develop better learners. In the realm of developing and implementing assessment, I have worked with my colleague [Dr. Rachel Branco](https://chemistry.nd.edu/people/rachel-branco/) in the application of a series of assignments to cross-course interdisciplinary awareness, and with [Dr. Suzanne Wood](http://www.suzannewoodphd.com/) in validating a series of sequential writing assignments designed to improve critical reading of primary research articles.
 
 My doctoral work was completed in the Department of Psychology at the University of Toronto, working at the Rotman Research Institute at Baycrest in the [Alain Lab](https://www.rotman-baycrest.on.ca/sp/index.php/alain-lab/). My research interests are in context-based sound processing, at the intersection of auditory attention and auditory memory. I used behavioural and EEG techniques to examine the temporal dynamics of speech comprehension in adverse situations. Specifically, what happens to something we didn’t hear properly the first time around? Do we manage to correct ourselves when the proper context is provided after the fact, and what are the neural mechanisms behind that sort of reflective attentional process? One of my upper-level courses is dedicated to discussing topics in audition, particularly with regards to speech-in-noise processing.
 
