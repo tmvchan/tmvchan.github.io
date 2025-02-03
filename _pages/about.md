@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "T. M. Vanessa Chan-Devaere"
+title: "T. M. Vanessa Chan-Devaere, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
