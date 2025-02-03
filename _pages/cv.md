@@ -12,8 +12,8 @@ redirect_from:
 Academic Appointmnet
 ======
 * **Assistant Teaching Professor**, Department of Psychology, University of Notre Dame, August 2020 - present
-  * Appointed to the Neuroscience and Behavior major
-  * Courses (Fall 2023): Cognitive Psychology, Auditory Cognition, The Arts - Aesthetics and Creativity
+  * Director of Undergraduate Studies, Neuroscience and Behavior (2025 - present)
+  * Courses (Spring 2025): Introduction to Cognitive Neuroscience; Outwit, Outplay, Outlast: The Dynamics of *Survivor*
 
 Education
 ======
